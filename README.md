@@ -1,2 +1,2 @@
-# college-work
-college program or task 
+# collage-work
+collage program or task 
