@@ -1,2 +1,2 @@
-# college-work-Python
+# college-work
 college program or task 
