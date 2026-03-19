@@ -1,3 +1,5 @@
+# print the fabonacci series.
+
 n = int(input("Enter number of terms: "))
 
 a = 0
