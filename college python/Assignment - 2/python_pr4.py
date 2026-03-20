@@ -1,3 +1,6 @@
+# Program to calculate simple interest using function with default argument
+# Rate of interest is kept default as 5 percent
+
 def simple_interest(p, t, r=5):
     return (p * t * r) / 100
 
