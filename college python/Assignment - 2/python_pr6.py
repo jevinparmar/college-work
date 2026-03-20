@@ -1,3 +1,6 @@
+# Program to create a simple banking system using functions
+# Includes deposit, withdraw, and check balance operations
+
 balance = 0
 
 def deposit(amount):
