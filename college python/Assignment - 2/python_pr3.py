@@ -1,3 +1,6 @@
+# Program to calculate factorial of a number
+# This program shows factorial using normal function and recursive function
+
 def fact_normal(n):
     result = 1
     for i in range(1, n + 1):
