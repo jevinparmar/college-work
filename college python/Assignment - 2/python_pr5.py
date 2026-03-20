@@ -1,3 +1,6 @@
+# Program to demonstrate function inside another function (nested function)
+# Outer function calls inner function to perform task
+
 def outer(value):
     def inner(v):
         return v * v
