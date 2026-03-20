@@ -1,3 +1,6 @@
+# Menu driven program for student result system
+# Allows entering marks, calculating percentage, and assigning grade
+
 marks = []
 
 def enter_marks():
