@@ -1,3 +1,6 @@
+# Program to find the largest number among three numbers using function
+# Function accepts three numbers as parameters and returns the largest value
+
 def biggest(a, b, c):
     if a >= b and a >= c:
         return a
