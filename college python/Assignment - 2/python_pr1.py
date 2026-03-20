@@ -1,3 +1,7 @@
+# Program to perform arithmetic operations using separate functions
+# This program uses functions for addition, subtraction, multiplication, and division
+# User selects operation and program calls the required function
+
 def add(x, y):
     return x + y
 
