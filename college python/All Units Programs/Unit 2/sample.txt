@@ -1,0 +1,3 @@
+Python is easy to learn and write.
+It is useful for practical programs.
+With use of python we can make alots of things
