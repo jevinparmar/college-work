@@ -1,0 +1,5 @@
+<%-- Dark Theme Skin File --%>
+<asp:Button runat="server" BackColor="#495057" ForeColor="#ffffff" BorderStyle="Solid" BorderColor="#6c757d" BorderWidth="1px" Padding="8px 16px" Font-Bold="true" />
+<asp:TextBox runat="server" BackColor="#343a40" ForeColor="#f8f9fa" BorderColor="#6c757d" BorderStyle="Solid" BorderWidth="1px" Padding="6px" />
+<asp:Label runat="server" ForeColor="#e9ecef" Font-Names="Segoe UI, Arial" />
+<asp:Label runat="server" SkinID="HeaderLabel" ForeColor="#f8f9fa" Font-Bold="true" Font-Size="X-Large" />

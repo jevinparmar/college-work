@@ -1,0 +1,29 @@
+/* External CSS for CSSDemo.aspx */
+body {
+    font-family: Arial, sans-serif;
+    background-color: #f8f9fa;
+    margin: 20px;
+}
+
+.external-card {
+    background-color: #ffffff;
+    border: 2px solid #007bff;
+    border-radius: 8px;
+    padding: 20px;
+    margin: 15px 0;
+}
+
+.external-heading {
+    color: #007bff;
+    font-size: 22px;
+    margin-top: 0;
+}
+
+.external-btn {
+    background-color: #007bff;
+    color: white;
+    padding: 10px 15px;
+    border: none;
+    border-radius: 4px;
+    cursor: pointer;
+}

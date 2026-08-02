@@ -1,0 +1,5 @@
+<%-- Green Theme Skin File --%>
+<asp:Button runat="server" BackColor="#28a745" ForeColor="White" BorderStyle="None" Padding="8px 16px" Font-Bold="true" CornerRadius="4px" />
+<asp:TextBox runat="server" BorderColor="#28a745" BorderStyle="Solid" BorderWidth="1px" Padding="6px" />
+<asp:Label runat="server" ForeColor="#155724" Font-Names="Segoe UI, Arial" />
+<asp:Label runat="server" SkinID="HeaderLabel" ForeColor="#1e7e34" Font-Bold="true" Font-Size="X-Large" />

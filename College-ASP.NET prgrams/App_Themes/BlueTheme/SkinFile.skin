@@ -1,0 +1,5 @@
+<%-- Blue Theme Skin File --%>
+<asp:Button runat="server" BackColor="#0066cc" ForeColor="White" BorderStyle="None" Padding="8px 16px" Font-Bold="true" CornerRadius="4px" />
+<asp:TextBox runat="server" BorderColor="#0066cc" BorderStyle="Solid" BorderWidth="1px" Padding="6px" />
+<asp:Label runat="server" ForeColor="#003366" Font-Names="Segoe UI, Arial" />
+<asp:Label runat="server" SkinID="HeaderLabel" ForeColor="#004085" Font-Bold="true" Font-Size="X-Large" />
